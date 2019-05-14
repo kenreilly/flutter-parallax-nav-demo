@@ -1,4 +1,4 @@
-# flutter_parallax_nav_demo
+# Flutter Parallax Nav Demo
 
 ## Introduction
 This is a demo project to show how to create a tab navigator with a scrolling parallax background.
